@@ -40,4 +40,4 @@
   
 </div>
 
-![Snake animation](https://github.com/gui-medina/gui-medina/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/gui-medina/gui-medina/blob/output/github-contribution-grid-snake.svg) -->
