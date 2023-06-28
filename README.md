@@ -3,7 +3,7 @@
   ##
  
 - 💬 Estou aberto a oportunidades no mercado.
-- 🌱 Estou estudando Front-End.
+- 🌱 Estudando Front-End.
 - ⚡ Gestor de Infraestrutura de Redes de Computadores.
 - 📫 Contate-me pelo WhatsApp: ( 13 ) 9 9760 9350
 - 😄 
